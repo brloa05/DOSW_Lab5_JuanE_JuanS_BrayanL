@@ -19,15 +19,15 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 |------|-------------|
 | **ID** | HU-01 |
 | **Título** | Inicio de sesión en el sistema |
-| **Descripción** | *Como [usuario] quiero [ingresar mi usuario y contraseña] para [acceder a la plataforma]* |
+| **Descripción** | *Como [usuario] quiero [ingresar mi usuario y contraseña] para [usar el sistema segun mis funciones de forma adecuada]* |
 | **Prioridad** | *[Alta] [Media] [Baja]* |
 | **Estimación** | *Puntos de historia* |
 
 | Campo | Descripción |
 |------|-------------|
 | **ID** | HU-02 |
-| **Título** | |
-| **Descripción** | *Como [tipo de usuario] quiero [necesidad o acción] para [beneficio u objetivo]* |
+| **Título** | Control de acceso por roles |
+| **Descripción** | *Como [usuario] quiero [que el sistema me muestre únicamente las funcionalidades permitidas según mi rol] para [beneficio u objetivo]* |
 | **Prioridad** | *[Alta] [Media] [Baja]* |
 | **Estimación** | *Puntos de historia* |
 

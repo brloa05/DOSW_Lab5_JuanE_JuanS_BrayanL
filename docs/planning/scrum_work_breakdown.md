@@ -23,6 +23,30 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **Prioridad** | *[Alta] [Media] [Baja]* |
 | **Estimación** | *Puntos de historia* |
 
+| Campo | Descripción |
+|------|-------------|
+| **ID** | HU-02 |
+| **Título** | |
+| **Descripción** | *Como [tipo de usuario] quiero [necesidad o acción] para [beneficio u objetivo]* |
+| **Prioridad** | *[Alta] [Media] [Baja]* |
+| **Estimación** | *Puntos de historia* |
+
+| Campo | Descripción |
+|------|-------------|
+| **ID** | HU-03 |
+| **Título** | |
+| **Descripción** | *Como [tipo de usuario] quiero [necesidad o acción] para [beneficio u objetivo]* |
+| **Prioridad** | *[Alta] [Media] [Baja]* |
+| **Estimación** | *Puntos de historia* |
+
+| Campo | Descripción |
+|------|-------------|
+| **ID** | HU-04 |
+| **Título** | |
+| **Descripción** | *Como [tipo de usuario] quiero [necesidad o acción] para [beneficio u objetivo]* |
+| **Prioridad** | *[Alta] [Media] [Baja]* |
+| **Estimación** | *Puntos de historia* |
+
 ### 3. Tareas:
 
 | Campo | Descripción |

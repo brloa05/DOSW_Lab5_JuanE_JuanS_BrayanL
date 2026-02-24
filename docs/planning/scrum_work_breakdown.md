@@ -34,8 +34,8 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | Campo | Descripción |
 |------|-------------|
 | **ID** | HU-03 |
-| **Título** | |
-| **Descripción** | *Como [tipo de usuario] quiero [necesidad o acción] para [beneficio u objetivo]* |
+| **Título** |Protección de contraseñas|
+| **Descripción** | *Como [administrador] quiero [necesidad o acción] para [garantizar la seguridad de la información de los usuarios]* |
 | **Prioridad** | *[Alta] [Media] [Baja]* |
 | **Estimación** | *Puntos de historia* |
 

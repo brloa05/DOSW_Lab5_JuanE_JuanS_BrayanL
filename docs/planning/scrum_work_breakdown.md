@@ -18,8 +18,8 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | Campo | Descripción |
 |------|-------------|
 | **ID** | HU-01 |
-| **Título** | |
-| **Descripción** | *Como [tipo de usuario] quiero [necesidad o acción] para [beneficio u objetivo]* |
+| **Título** | Inicio de sesión en el sistema |
+| **Descripción** | *Como [usuario] quiero [ingresar mi usuario y contraseña] para [acceder a la plataforma]* |
 | **Prioridad** | *[Alta] [Media] [Baja]* |
 | **Estimación** | *Puntos de historia* |
 

@@ -19,7 +19,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 |------|-------------|
 | **ID** | HU-01 |
 | **Título** | Inicio de sesión en el sistema |
-| **Descripción** | *Como [usuario] quiero [ingresar mi usuario y contraseña] para [usar el sistema segun mis funciones de forma adecuada]* |
+| **Descripción** | *Como [Cliente] quiero [ingresar mi usuario y contraseña] para [usar el sistema segun mis funciones de forma adecuada]* |
 | **Prioridad** | *[Alta] [Media] [Baja]* |
 | **Estimación** | *Puntos de historia* |
 
@@ -27,7 +27,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 |------|-------------|
 | **ID** | HU-02 |
 | **Título** | Control de acceso por roles |
-| **Descripción** | *Como [usuario] quiero [que el sistema me muestre únicamente las funcionalidades permitidas según mi rol] para [beneficio u objetivo]* |
+| **Descripción** | *Como [Cliente] quiero [que el sistema me muestre únicamente las funcionalidades permitidas según mi rol] para [beneficio u objetivo]* |
 | **Prioridad** | *[Alta] [Media] [Baja]* |
 | **Estimación** | *Puntos de historia* |
 
@@ -35,7 +35,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 |------|-------------|
 | **ID** | HU-03 |
 | **Título** |Protección de contraseñas|
-| **Descripción** | *Como [administrador] quiero [necesidad o acción] para [garantizar la seguridad de la información de los usuarios]* |
+| **Descripción** | *Como [Supervisor] quiero [necesidad o acción] para [garantizar la seguridad de la información de los usuarios]* |
 | **Prioridad** | *[Alta] [Media] [Baja]* |
 | **Estimación** | *Puntos de historia* |
 

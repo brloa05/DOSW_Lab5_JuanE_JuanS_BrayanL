@@ -42,8 +42,8 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | Campo | Descripción |
 |------|-------------|
 | **ID** | HU-04 |
-| **Título** | |
-| **Descripción** | *Como [tipo de usuario] quiero [necesidad o acción] para [beneficio u objetivo]* |
+| **Título** | Cierre de sesión |
+| **Descripción** | *Como [usuario] quiero [cerrar sesión en la plataforma] para [proteger el acceso a mi información]* |
 | **Prioridad** | *[Alta] [Media] [Baja]* |
 | **Estimación** | *Puntos de historia* |
 
@@ -52,7 +52,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | Campo | Descripción |
 |------|-------------|
 | **ID** | TR-01 |
-| **Título** | |
+| **Título** |  |
 | **ID de la Historia de Uso asociada** | HU-01 |
 | **Descripción** | *Como [tipo de usuario] quiero [necesidad o acción] para [beneficio u objetivo]* |
 | **Tareas requisito** | *Id de las tareas de las cuales es dependiente* |

@@ -62,7 +62,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **ID** | TR-02 |
 | **Título** | Validación de credenciales |
 | **ID de la Historia de Uso asociada** | HU-01 |
-| **Descripción** | Como [Cliente] quiero [que mis credenciales sean validadas] para [acceder de forma segura a la plataforma] |
+| **Descripción** | *Como [Cliente] quiero [que mis credenciales sean validadas] para [acceder de forma segura a la plataforma]* |
 | **Tareas requisito** | TR-01 |
 
 | Campo | Descripción |
@@ -70,5 +70,29 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **ID** | TR-03 |
 | **Título** | Gestión de sesión |
 | **ID de la Historia de Uso asociada** | HU-01 |
-| **Descripción** | Como [Cliente] quiero [que mi sesión permanezca activa mientras uso el sistema] para [evitar iniciar sesión repetidamente] |
+| **Descripción** | *Como [Cliente] quiero [que mi sesión permanezca activa mientras uso el sistema] para [evitar iniciar sesión repetidamente]* |
 | **Tareas requisito** | TR-02 |
+
+| Campo | Descripción |
+|------|-------------|
+| **ID** | TR-04 |
+| **Título** | Definición de roles y permisos |
+| **ID de la Historia de Uso asociada** | HU-02 |
+| **Descripción** | *Como [Supervisor] quiero [definir los permisos de cada rol] para c[ontrolar el acceso a las funcionalidades]* |
+| **Tareas requisito** | — |
+
+| Campo | Descripción |
+|------|-------------|
+| **ID** | TR-05 |
+| **Título** | Asignación de roles a usuarios |
+| **ID de la Historia de Uso asociada** | HU-02 |
+| **Descripción** | *Como [Supervisor] quiero [asignar roles a los usuarios] para [que accedan solo a las funciones autorizadas]* |
+| **Tareas requisito** | TR-04 |
+
+| Campo | Descripción |
+|------|-------------|
+| **ID** | TR-06 |
+| **Título** | Visualización de módulos según rol |
+| **ID de la Historia de Uso asociada** | HU-02 |
+| **Descripción** | *Como [Cliente] quiero [visualizar únicamente los módulos permitidos según mi rol] para [evitar accesos no autorizados]* |
+| **Tareas requisito** | TR-05 |

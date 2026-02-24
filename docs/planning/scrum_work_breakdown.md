@@ -120,3 +120,27 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **ID de la Historia de Uso asociada** | HU-03 |
 | **Descripción** | *Como [Cliente] quiero [cambiar mi contraseña] para [proteger mi cuenta]* |
 | **Tareas requisito** | TR-08 |
+
+| Campo | Descripción |
+|------|-------------|
+| **ID** | TR-10 |
+| **Título** | Opción visible para cerrar sesión |
+| **ID de la Historia de Uso asociada** | HU-04 |
+| **Descripción** | *Como [Cliente] quiero [visualizar la opción de cerrar sesión] para [salir del sistema fácilmente]* |
+| **Tareas requisito** | — |
+
+| Campo | Descripción |
+|------|-------------|
+| **ID** | TR-11 |
+| **Título** | Finalización de la sesión activa |
+| **ID de la Historia de Uso asociada** | HU-04 |
+| **Descripción** | *Como [Cliente] quiero [que mi sesión se cierre completamente] para [evitar accesos no autorizados]* |
+| **Tareas requisito** | TR-10 |
+
+| Campo | Descripción |
+|------|-------------|
+| **ID** | TR-12 |
+| **Título** | Redirección a pantalla de inicio de sesión |
+| **ID de la Historia de Uso asociada** | HU-04 |
+| **Descripción** | *Como [Cliente] quiero [ser redirigido a la pantalla de inicio de sesión al cerrar la sesión] para [confirmar que salí correctamente]* |
+| **Tareas requisito** | TR-11 |

@@ -34,7 +34,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | Campo | Descripción |
 |------|-------------|
 | **ID** | HU-03 |
-| **Título** |Protección de contraseñas|
+| **Título** | Protección de contraseñas|
 | **Descripción** | *Como [Supervisor] quiero [necesidad o acción] para [garantizar la seguridad de la información de los usuarios]* |
 | **Prioridad** | *[Alta] [Media] [Baja]* |
 | **Estimación** | *Puntos de historia* |
@@ -96,3 +96,27 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **ID de la Historia de Uso asociada** | HU-02 |
 | **Descripción** | *Como [Cliente] quiero [visualizar únicamente los módulos permitidos según mi rol] para [evitar accesos no autorizados]* |
 | **Tareas requisito** | TR-05 |
+
+| Campo | Descripción |
+|------|-------------|
+| **ID** | TR-07 |
+| **Título** | Encriptación de contraseñas |
+| **ID de la Historia de Uso asociada** | HU-03 |
+| **Descripción** | *Como [Supervisor] quiero [que las contraseñas se almacenen de forma encriptada] para [proteger la información de los usuarios]* |
+| **Tareas requisito** | — |
+
+| Campo | Descripción |
+|------|-------------|
+| **ID** | TR-08 |
+| **Título** | Definición de políticas de contraseña |
+| **ID de la Historia de Uso asociada** | HU-03 |
+| **Descripción** | *Como [Supervisor] quiero [establecer reglas de complejidad para las contraseñas] para [aumentar la seguridad del acceso]* |
+| **Tareas requisito** | — |
+
+| Campo | Descripción |
+|------|-------------|
+| **ID** | TR-09 |
+| **Título** | Cambio seguro de contraseña |
+| **ID de la Historia de Uso asociada** | HU-03 |
+| **Descripción** | *Como [Cliente] quiero [cambiar mi contraseña] para [proteger mi cuenta]* |
+| **Tareas requisito** | TR-08 |

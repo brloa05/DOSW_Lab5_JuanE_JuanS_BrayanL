@@ -52,7 +52,23 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | Campo | Descripción |
 |------|-------------|
 | **ID** | TR-01 |
-| **Título** |  |
+| **Título** | Diseño de interfaz de inicio de sesión |
 | **ID de la Historia de Uso asociada** | HU-01 |
-| **Descripción** | *Como [tipo de usuario] quiero [necesidad o acción] para [beneficio u objetivo]* |
-| **Tareas requisito** | *Id de las tareas de las cuales es dependiente* |
+| **Descripción** | *Como [Cliente] quiero [visualizar un formulario de inicio de sesión] para [ingresar mis credenciales]* |
+| **Tareas requisito** | - |
+
+| Campo | Descripción |
+|------|-------------|
+| **ID** | TR-02 |
+| **Título** | Validación de credenciales |
+| **ID de la Historia de Uso asociada** | HU-01 |
+| **Descripción** | Como [Cliente] quiero [que mis credenciales sean validadas] para [acceder de forma segura a la plataforma] |
+| **Tareas requisito** | TR-01 |
+
+| Campo | Descripción |
+|------|-------------|
+| **ID** | TR-03 |
+| **Título** | Gestión de sesión |
+| **ID de la Historia de Uso asociada** | HU-01 |
+| **Descripción** | Como [Cliente] quiero [que mi sesión permanezca activa mientras uso el sistema] para [evitar iniciar sesión repetidamente] |
+| **Tareas requisito** | TR-02 |

@@ -15,37 +15,53 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 
 ### 2. Historias de usuario:
 
-| Campo | Descripción |
-|------|-------------|
-| **ID** | HU-01 |
-| **Título** | Inicio de sesión en el sistema |
+| Campo | Descripción                                                                                                            |
+|------|------------------------------------------------------------------------------------------------------------------------|
+| **ID** | HU-01                                                                                                                  |
+| **Título** | Inicio de sesión en el sistema                                                                                         |
 | **Descripción** | *Como [Cliente] quiero [ingresar mi usuario y contraseña] para [usar el sistema segun mis funciones de forma adecuada]* |
-| **Prioridad** | *[Alta] [Media] [Baja]* |
-| **Estimación** | *Puntos de historia* |
+| **Prioridad** | Alta                                                                                                                   |                                                                                                                  |
+| **Estimación** | *8 puntos*                                                                                                             |
 
-| Campo | Descripción |
-|------|-------------|
-| **ID** | HU-02 |
-| **Título** | Control de acceso por roles |
+
+Justificación
+Es un habilitador crítico. Sin autenticación no es posible acceder a módulos como gestión de cuentas, depósitos o reportes. El sistema no puede operar sin esta funcionalidad.
+
+| Campo | Descripción                                                                                                                            |
+|------|----------------------------------------------------------------------------------------------------------------------------------------|
+| **ID** | HU-02                                                                                                                                  |
+| **Título** | Control de acceso por roles                                                                                                            |
 | **Descripción** | *Como [Cliente] quiero [que el sistema me muestre únicamente las funcionalidades permitidas según mi rol] para [beneficio u objetivo]* |
-| **Prioridad** | *[Alta] [Media] [Baja]* |
-| **Estimación** | *Puntos de historia* |
+| **Prioridad** | Alta                                                                                                                                   |
+| **Estimación** | *13 puntos*                                                                                                                            |
 
-| Campo | Descripción |
-|------|-------------|
-| **ID** | HU-03 |
-| **Título** | Protección de contraseñas|
+Justificación:
+
+El sistema maneja diferentes actores (cliente, asesor, supervisor, gerente financiero). Sin control por roles se romperían reglas del negocio y se comprometería la seguridad de la información.
+
+| Campo | Descripción                                                                                                     |
+|------|-----------------------------------------------------------------------------------------------------------------|
+| **ID** | HU-03                                                                                                           |
+| **Título** | Protección de contraseñas                                                                                       |
 | **Descripción** | *Como [Supervisor] quiero [necesidad o acción] para [garantizar la seguridad de la información de los usuarios]* |
-| **Prioridad** | *[Alta] [Media] [Baja]* |
-| **Estimación** | *Puntos de historia* |
+| **Prioridad** | Alta                                                                                                            |
+| **Estimación** | *13 puntos*                                                                                                     |
 
-| Campo | Descripción |
-|------|-------------|
-| **ID** | HU-04 |
-| **Título** | Cierre de sesión |
+Justificación
+Bankify es una fintech. La seguridad no es opcional. El almacenamiento seguro de contraseñas es indispensable para evitar riesgos legales y reputacionales en la validación del modelo de negocio.
+
+
+
+| Campo | Descripción                                                                                         |
+|------|-----------------------------------------------------------------------------------------------------|
+| **ID** | HU-04                                                                                               |
+| **Título** | Cierre de sesión                                                                                    |
 | **Descripción** | *Como [usuario] quiero [cerrar sesión en la plataforma] para [proteger el acceso a mi información]* |
-| **Prioridad** | *[Alta] [Media] [Baja]* |
-| **Estimación** | *Puntos de historia* |
+| **Prioridad** | Alta                                                                                                |
+| **Estimación** | *5 puntos*                                                                                          |
+
+Justificación:
+Aumenta la seguridad y experiencia del usuario, pero no bloquea la validación inicial del modelo de negocio. Puede desarrollarse después de garantizar autenticación y control por roles.
 
 ### 3. Tareas:
 

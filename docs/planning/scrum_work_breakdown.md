@@ -24,6 +24,10 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **Estimación** | *8 puntos*                                                                                                             |
 
 
+https://github.com/user-attachments/assets/0cd33d7a-3dc0-4851-b394-f5046743c382
+
+
+
 Justificación
 Es un habilitador crítico. Sin autenticación no es posible acceder a módulos como gestión de cuentas, depósitos o reportes. El sistema no puede operar sin esta funcionalidad.
 

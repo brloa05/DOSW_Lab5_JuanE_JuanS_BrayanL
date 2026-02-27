@@ -67,6 +67,10 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 ### 4. Cronograma:
 
 
-![img_17.png](img_17.png)
+<img width="1669" height="361" alt="image" src="https://github.com/user-attachments/assets/6c3cb320-580c-44e9-8a8e-789ac494e26f" />
+
 
 ### 5. Backlog:
+
+
+

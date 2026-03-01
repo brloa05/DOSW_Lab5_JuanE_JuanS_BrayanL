@@ -1,5 +1,7 @@
 # 📄 Planeación del Sistema
 
+https://github.com/user-attachments/assets/0cd33d7a-3dc0-4851-b394-f5046743c382
+
 ## Desglose de trabajo: Épicas, Historias de Usuario y Tareas
 
 La implementación de los requerimientos identificados de Bankify se desglosa de la siguiente manera:
@@ -22,10 +24,6 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **Descripción** | *Como [Cliente] quiero [ingresar mi usuario y contraseña] para [usar el sistema segun mis funciones de forma adecuada]* |
 | **Prioridad** | Alta                                                                                                                   |                                                                                                                  |
 | **Estimación** | *8 puntos historia*                                                                                                             |
-
-
-https://github.com/user-attachments/assets/0cd33d7a-3dc0-4851-b394-f5046743c382
-
 
 
 Justificación

@@ -70,6 +70,8 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 
 ### 5. Backlog:
 #### Sprint 1
-<img width="901" height="252" alt="image" src="https://github.com/user-attachments/assets/7c198f39-b148-4643-8fb6-dbb6afbe88a3" />
+<img width="1650" height="242" alt="image" src="https://github.com/user-attachments/assets/754afe7f-9e55-4560-a369-bcc105d4c4ab" />
+Se decidio organizar asi pues disponemos de hacer una historia de usuario que en terminos de puntos de historia de usuario es intermedia asi podemos evaluar la velocidad del squad y validad por nosotros mismos el nivel de desarrollo a un nivel adecuado
+
 
 

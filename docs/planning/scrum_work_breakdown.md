@@ -73,7 +73,7 @@ Aumenta la seguridad y experiencia del usuario, pero no bloquea la validación i
 |------|-------------|
 | **ID** | DOSW-7 |
 | **Título** | Diseño de interfaz de inicio de sesión |
-| **ID de la Historia de Uso asociada** | HU-01 |
+| **ID de la Historia de Uso asociada** | DOSW-1 |
 | **Descripción** | *Como [Cliente] quiero [visualizar un formulario de inicio de sesión] para [ingresar mis credenciales]* |
 | **Tareas requisito** | - |
 
@@ -81,7 +81,7 @@ Aumenta la seguridad y experiencia del usuario, pero no bloquea la validación i
 |------|-------------|
 | **ID** | DOSW-3 |
 | **Título** | Validación de credenciales |
-| **ID de la Historia de Uso asociada** | HU-01 |
+| **ID de la Historia de Uso asociada** | DOSW-1 |
 | **Descripción** | *Como [Cliente] quiero [que mis credenciales sean validadas] para [acceder de forma segura a la plataforma]* |
 | **Tareas requisito** | TR-01 |
 
@@ -89,7 +89,7 @@ Aumenta la seguridad y experiencia del usuario, pero no bloquea la validación i
 |------|-------------|
 | **ID** | DOSW-9 |
 | **Título** | Gestión de sesión |
-| **ID de la Historia de Uso asociada** | HU-01 |
+| **ID de la Historia de Uso asociada** | DOSW-1 |
 | **Descripción** | *Como [Cliente] quiero [que mi sesión permanezca activa mientras uso el sistema] para [evitar iniciar sesión repetidamente]* |
 | **Tareas requisito** | TR-02 |
 
@@ -97,7 +97,7 @@ Aumenta la seguridad y experiencia del usuario, pero no bloquea la validación i
 |------|-------------|
 | **ID** | DOSW-8 |
 | **Título** | Definición de roles y permisos |
-| **ID de la Historia de Uso asociada** | HU-02 |
+| **ID de la Historia de Uso asociada** | DOSW-2 |
 | **Descripción** | *Como [Supervisor] quiero [definir los permisos de cada rol] para c[ontrolar el acceso a las funcionalidades]* |
 | **Tareas requisito** | — |
 
@@ -105,7 +105,7 @@ Aumenta la seguridad y experiencia del usuario, pero no bloquea la validación i
 |------|-------------|
 | **ID** | DOSW-10 |
 | **Título** | Asignación de roles a usuarios |
-| **ID de la Historia de Uso asociada** | HU-02 |
+| **ID de la Historia de Uso asociada** | DOSW-2 |
 | **Descripción** | *Como [Supervisor] quiero [asignar roles a los usuarios] para [que accedan solo a las funciones autorizadas]* |
 | **Tareas requisito** | TR-04 |
 
@@ -113,7 +113,7 @@ Aumenta la seguridad y experiencia del usuario, pero no bloquea la validación i
 |------|-------------|
 | **ID** | DOSW-11 |
 | **Título** | Visualización de módulos según rol |
-| **ID de la Historia de Uso asociada** | HU-02 |
+| **ID de la Historia de Uso asociada** | DOSW-2 |
 | **Descripción** | *Como [Cliente] quiero [visualizar únicamente los módulos permitidos según mi rol] para [evitar accesos no autorizados]* |
 | **Tareas requisito** | TR-05 |
 
@@ -121,7 +121,7 @@ Aumenta la seguridad y experiencia del usuario, pero no bloquea la validación i
 |------|-------------|
 | **ID** | DOSW-12 |
 | **Título** | Encriptación de contraseñas |
-| **ID de la Historia de Uso asociada** | HU-03 |
+| **ID de la Historia de Uso asociada** | DOSW-4 |
 | **Descripción** | *Como [Supervisor] quiero [que las contraseñas se almacenen de forma encriptada] para [proteger la información de los usuarios]* |
 | **Tareas requisito** | — |
 
@@ -129,7 +129,7 @@ Aumenta la seguridad y experiencia del usuario, pero no bloquea la validación i
 |------|-------------|
 | **ID** | DOSW-13 |
 | **Título** | Definición de políticas de contraseña |
-| **ID de la Historia de Uso asociada** | HU-03 |
+| **ID de la Historia de Uso asociada** | DOSW-4 |
 | **Descripción** | *Como [Supervisor] quiero [establecer reglas de complejidad para las contraseñas] para [aumentar la seguridad del acceso]* |
 | **Tareas requisito** | — |
 
@@ -137,7 +137,7 @@ Aumenta la seguridad y experiencia del usuario, pero no bloquea la validación i
 |------|-------------|
 | **ID** | DOSW-14 |
 | **Título** | Cambio seguro de contraseña |
-| **ID de la Historia de Uso asociada** | HU-03 |
+| **ID de la Historia de Uso asociada** | DOSW-3 |
 | **Descripción** | *Como [Cliente] quiero [cambiar mi contraseña] para [proteger mi cuenta]* |
 | **Tareas requisito** | TR-08 |
 
@@ -145,7 +145,7 @@ Aumenta la seguridad y experiencia del usuario, pero no bloquea la validación i
 |------|-------------|
 | **ID** | DOSW-15 |
 | **Título** | Opción visible para cerrar sesión |
-| **ID de la Historia de Uso asociada** | HU-04 |
+| **ID de la Historia de Uso asociada** | DOSW-3 |
 | **Descripción** | *Como [Cliente] quiero [visualizar la opción de cerrar sesión] para [salir del sistema fácilmente]* |
 | **Tareas requisito** | — |
 
@@ -153,7 +153,7 @@ Aumenta la seguridad y experiencia del usuario, pero no bloquea la validación i
 |------|-------------|
 | **ID** | DOSW-16 |
 | **Título** | Finalización de la sesión activa |
-| **ID de la Historia de Uso asociada** | HU-04 |
+| **ID de la Historia de Uso asociada** | DOSW-3 |
 | **Descripción** | *Como [Cliente] quiero [que mi sesión se cierre completamente] para [evitar accesos no autorizados]* |
 | **Tareas requisito** | TR-10 |
 
@@ -161,6 +161,6 @@ Aumenta la seguridad y experiencia del usuario, pero no bloquea la validación i
 |------|-------------|
 | **ID** | DOSW-6 |
 | **Título** | Redirección a pantalla de inicio de sesión |
-| **ID de la Historia de Uso asociada** | HU-04 |
+| **ID de la Historia de Uso asociada** | DOSW-3 |
 | **Descripción** | *Como [Cliente] quiero [ser redirigido a la pantalla de inicio de sesión al cerrar la sesión] para [confirmar que salí correctamente]* |
 | **Tareas requisito** | TR-11 |

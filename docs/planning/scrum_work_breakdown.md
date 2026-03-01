@@ -137,7 +137,7 @@ Aumenta la seguridad y experiencia del usuario, pero no bloquea la validación i
 |------|-------------|
 | **ID** | DOSW-14 |
 | **Título** | Cambio seguro de contraseña |
-| **ID de la Historia de Uso asociada** | DOSW-3 |
+| **ID de la Historia de Uso asociada** | DOSW-4 |
 | **Descripción** | *Como [Cliente] quiero [cambiar mi contraseña] para [proteger mi cuenta]* |
 | **Tareas requisito** | TR-08 |
 

@@ -6,63 +6,61 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 
 ### 1. Épica:
 
-
-![img.png](img.png)
-
+<img width="1659" height="813" alt="image" src="https://github.com/user-attachments/assets/2bde7bad-269f-4a83-9826-f7ef9aaa4aa3" />
 
 ### 2. Historias de usuario:
 
 
 #### Historia de usuario 1
- ![img_1.png](img_1.png)
+<img width="1680" height="821" alt="image" src="https://github.com/user-attachments/assets/1a3dcbd0-f162-4a77-ae5f-2ab2e2a5e576" />
 
 #### Historia de usuario 2
-![img_2.png](img_2.png)
+<img width="1670" height="823" alt="image" src="https://github.com/user-attachments/assets/0c711510-dd41-42e7-ad5a-f140ceb3435d" />
 
 #### Historia de usuario 3
-![img_3.png](img_3.png)
+<img width="1682" height="820" alt="image" src="https://github.com/user-attachments/assets/a4173c33-384b-4784-b5d3-b60aa1fe46e6" />
 
 #### Historia de usuario 4
-![img_4.png](img_4.png)
-
+<img width="1670" height="826" alt="image" src="https://github.com/user-attachments/assets/caa5b925-f8f6-4133-bc36-1d297ed6ebd3" />
 
 ### 3. Tareas:
 
 #### Tarea 1
-![img_5.png](img_5.png)
+<img width="1671" height="815" alt="image" src="https://github.com/user-attachments/assets/e9964205-b27f-4664-8211-2e37e885215f" />
 
 #### Tarea 2
-![img_6.png](img_6.png)
+<img width="1681" height="811" alt="image" src="https://github.com/user-attachments/assets/db675816-e547-4bd2-84d5-b8df367dd615" />
 
 #### Tarea 3
-![img_7.png](img_7.png)
+<img width="1674" height="816" alt="image" src="https://github.com/user-attachments/assets/e43f33f3-1911-4379-b9a9-f860ddffe661" />
 
 #### Tarea 4
-![img_8.png](img_8.png)
+<img width="1673" height="827" alt="image" src="https://github.com/user-attachments/assets/2be8922d-c7ea-4e72-be59-b907598f8f2f" />
 
 #### Tarea 5
-![img_9.png](img_9.png)
+<img width="1677" height="827" alt="image" src="https://github.com/user-attachments/assets/778e22b7-c0e1-4ce3-bb48-e6352210c733" />
 
 #### Tarea 6
-![img_10.png](img_10.png)
+<img width="1672" height="810" alt="image" src="https://github.com/user-attachments/assets/c968b6b8-f234-4473-9ef6-48c853410dce" />
 
 #### Tarea 7
-![img_11.png](img_11.png)
+<img width="1671" height="816" alt="image" src="https://github.com/user-attachments/assets/343855ea-99e7-4a3a-b5e6-eff1f8799173" />
 
 #### Tarea 8
-![img_12.png](img_12.png)
+<img width="1673" height="812" alt="image" src="https://github.com/user-attachments/assets/c3e51786-3c03-4184-a982-79aa8d10a313" />
 
 #### Tarea 9
-![img_13.png](img_13.png)
+<img width="1674" height="796" alt="image" src="https://github.com/user-attachments/assets/b17f9090-84b3-4904-be15-5202401f006d" />
 
 #### Tarea 10
-![img_14.png](img_14.png)
+<img width="1678" height="798" alt="image" src="https://github.com/user-attachments/assets/a751c087-bc4c-4279-bb6f-07fb12f3ef47" />
 
 #### Tarea 11
-![img_15.png](img_15.png)
+<img width="1674" height="813" alt="image" src="https://github.com/user-attachments/assets/358f657d-7b91-4ee4-9d43-f798bdf9043a" />
 
 #### Tarea 12
-![img_16.png](img_16.png)
+<img width="1669" height="806" alt="image" src="https://github.com/user-attachments/assets/d60dbf4a-b794-4a88-9065-a3266c6306b6" />
+
 
 ### 4. Cronograma:
 
@@ -71,8 +69,6 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 
 
 ### 5. Backlog:
-
-### 6. Sprints
 #### Sprint 1
 <img width="901" height="252" alt="image" src="https://github.com/user-attachments/assets/7c198f39-b148-4643-8fb6-dbb6afbe88a3" />
 

@@ -10,8 +10,8 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 |------|-------------|
 | **ID** | EP-01 |
 | **Título** | Autenticación de usuarios |
-| **Descripción** | *Explique el por qué Bankify necesita esta épica* |
-| **Stakeholder** | *¿Quién es el stakeholder interesado en que se implemente esta épica?* |
+| **Descripción** | Garantiza la seguridad en las transacciones |
+| **Stakeholder** | Clientes y equipo de seguridad |
 
 ### 2. Historias de usuario:
 

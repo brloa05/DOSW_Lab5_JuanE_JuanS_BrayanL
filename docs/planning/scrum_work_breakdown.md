@@ -17,7 +17,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 
 | Campo | Descripción                                                                                                            |
 |------|------------------------------------------------------------------------------------------------------------------------|
-| **ID** | HU-01                                                                                                                  |
+| **ID** | DOSW-1                                                                                                                  |
 | **Título** | Inicio de sesión en el sistema                                                                                         |
 | **Descripción** | *Como [Cliente] quiero [ingresar mi usuario y contraseña] para [usar el sistema segun mis funciones de forma adecuada]* |
 | **Prioridad** | Alta                                                                                                                   |                                                                                                                  |
@@ -33,7 +33,7 @@ Es un habilitador crítico. Sin autenticación no es posible acceder a módulos 
 
 | Campo | Descripción                                                                                                                            |
 |------|----------------------------------------------------------------------------------------------------------------------------------------|
-| **ID** | HU-02                                                                                                                                  |
+| **ID** | DOSW-2                                                                                                                                  |
 | **Título** | Control de acceso por roles                                                                                                            |
 | **Descripción** | *Como [Cliente] quiero [que el sistema me muestre únicamente las funcionalidades permitidas según mi rol] para [beneficio u objetivo]* |
 | **Prioridad** | Alta                                                                                                                                   |
@@ -45,7 +45,7 @@ El sistema maneja diferentes actores (cliente, asesor, supervisor, gerente finan
 
 | Campo | Descripción                                                                                                     |
 |------|-----------------------------------------------------------------------------------------------------------------|
-| **ID** | HU-03                                                                                                           |
+| **ID** | DOSW-4                                                                                                           |
 | **Título** | Protección de contraseñas                                                                                       |
 | **Descripción** | *Como [Supervisor] quiero [necesidad o acción] para [garantizar la seguridad de la información de los usuarios]* |
 | **Prioridad** | Alta                                                                                                            |
@@ -58,7 +58,7 @@ Bankify es una fintech. La seguridad no es opcional. El almacenamiento seguro de
 
 | Campo | Descripción                                                                                         |
 |------|-----------------------------------------------------------------------------------------------------|
-| **ID** | HU-04                                                                                               |
+| **ID** | DOSW-3                                                                                               |
 | **Título** | Cierre de sesión                                                                                    |
 | **Descripción** | *Como [usuario] quiero [cerrar sesión en la plataforma] para [proteger el acceso a mi información]* |
 | **Prioridad** | Alta                                                                                                |
@@ -71,7 +71,7 @@ Aumenta la seguridad y experiencia del usuario, pero no bloquea la validación i
 
 | Campo | Descripción |
 |------|-------------|
-| **ID** | TR-01 |
+| **ID** | DOSW-7 |
 | **Título** | Diseño de interfaz de inicio de sesión |
 | **ID de la Historia de Uso asociada** | HU-01 |
 | **Descripción** | *Como [Cliente] quiero [visualizar un formulario de inicio de sesión] para [ingresar mis credenciales]* |
@@ -79,7 +79,7 @@ Aumenta la seguridad y experiencia del usuario, pero no bloquea la validación i
 
 | Campo | Descripción |
 |------|-------------|
-| **ID** | TR-02 |
+| **ID** | DOSW-3 |
 | **Título** | Validación de credenciales |
 | **ID de la Historia de Uso asociada** | HU-01 |
 | **Descripción** | *Como [Cliente] quiero [que mis credenciales sean validadas] para [acceder de forma segura a la plataforma]* |
@@ -87,7 +87,7 @@ Aumenta la seguridad y experiencia del usuario, pero no bloquea la validación i
 
 | Campo | Descripción |
 |------|-------------|
-| **ID** | TR-03 |
+| **ID** | DOSW-9 |
 | **Título** | Gestión de sesión |
 | **ID de la Historia de Uso asociada** | HU-01 |
 | **Descripción** | *Como [Cliente] quiero [que mi sesión permanezca activa mientras uso el sistema] para [evitar iniciar sesión repetidamente]* |
@@ -95,7 +95,7 @@ Aumenta la seguridad y experiencia del usuario, pero no bloquea la validación i
 
 | Campo | Descripción |
 |------|-------------|
-| **ID** | TR-04 |
+| **ID** | DOSW-8 |
 | **Título** | Definición de roles y permisos |
 | **ID de la Historia de Uso asociada** | HU-02 |
 | **Descripción** | *Como [Supervisor] quiero [definir los permisos de cada rol] para c[ontrolar el acceso a las funcionalidades]* |
@@ -103,7 +103,7 @@ Aumenta la seguridad y experiencia del usuario, pero no bloquea la validación i
 
 | Campo | Descripción |
 |------|-------------|
-| **ID** | TR-05 |
+| **ID** | DOSW-10 |
 | **Título** | Asignación de roles a usuarios |
 | **ID de la Historia de Uso asociada** | HU-02 |
 | **Descripción** | *Como [Supervisor] quiero [asignar roles a los usuarios] para [que accedan solo a las funciones autorizadas]* |
@@ -111,7 +111,7 @@ Aumenta la seguridad y experiencia del usuario, pero no bloquea la validación i
 
 | Campo | Descripción |
 |------|-------------|
-| **ID** | TR-06 |
+| **ID** | DOSW-11 |
 | **Título** | Visualización de módulos según rol |
 | **ID de la Historia de Uso asociada** | HU-02 |
 | **Descripción** | *Como [Cliente] quiero [visualizar únicamente los módulos permitidos según mi rol] para [evitar accesos no autorizados]* |
@@ -119,7 +119,7 @@ Aumenta la seguridad y experiencia del usuario, pero no bloquea la validación i
 
 | Campo | Descripción |
 |------|-------------|
-| **ID** | TR-07 |
+| **ID** | DOSW-12 |
 | **Título** | Encriptación de contraseñas |
 | **ID de la Historia de Uso asociada** | HU-03 |
 | **Descripción** | *Como [Supervisor] quiero [que las contraseñas se almacenen de forma encriptada] para [proteger la información de los usuarios]* |
@@ -127,7 +127,7 @@ Aumenta la seguridad y experiencia del usuario, pero no bloquea la validación i
 
 | Campo | Descripción |
 |------|-------------|
-| **ID** | TR-08 |
+| **ID** | DOSW-13 |
 | **Título** | Definición de políticas de contraseña |
 | **ID de la Historia de Uso asociada** | HU-03 |
 | **Descripción** | *Como [Supervisor] quiero [establecer reglas de complejidad para las contraseñas] para [aumentar la seguridad del acceso]* |
@@ -135,7 +135,7 @@ Aumenta la seguridad y experiencia del usuario, pero no bloquea la validación i
 
 | Campo | Descripción |
 |------|-------------|
-| **ID** | TR-09 |
+| **ID** | DOSW-14 |
 | **Título** | Cambio seguro de contraseña |
 | **ID de la Historia de Uso asociada** | HU-03 |
 | **Descripción** | *Como [Cliente] quiero [cambiar mi contraseña] para [proteger mi cuenta]* |
@@ -143,7 +143,7 @@ Aumenta la seguridad y experiencia del usuario, pero no bloquea la validación i
 
 | Campo | Descripción |
 |------|-------------|
-| **ID** | TR-10 |
+| **ID** | DOSW-15 |
 | **Título** | Opción visible para cerrar sesión |
 | **ID de la Historia de Uso asociada** | HU-04 |
 | **Descripción** | *Como [Cliente] quiero [visualizar la opción de cerrar sesión] para [salir del sistema fácilmente]* |
@@ -151,7 +151,7 @@ Aumenta la seguridad y experiencia del usuario, pero no bloquea la validación i
 
 | Campo | Descripción |
 |------|-------------|
-| **ID** | TR-11 |
+| **ID** | DOSW-16 |
 | **Título** | Finalización de la sesión activa |
 | **ID de la Historia de Uso asociada** | HU-04 |
 | **Descripción** | *Como [Cliente] quiero [que mi sesión se cierre completamente] para [evitar accesos no autorizados]* |
@@ -159,7 +159,7 @@ Aumenta la seguridad y experiencia del usuario, pero no bloquea la validación i
 
 | Campo | Descripción |
 |------|-------------|
-| **ID** | TR-12 |
+| **ID** | DOSW-6 |
 | **Título** | Redirección a pantalla de inicio de sesión |
 | **ID de la Historia de Uso asociada** | HU-04 |
 | **Descripción** | *Como [Cliente] quiero [ser redirigido a la pantalla de inicio de sesión al cerrar la sesión] para [confirmar que salí correctamente]* |

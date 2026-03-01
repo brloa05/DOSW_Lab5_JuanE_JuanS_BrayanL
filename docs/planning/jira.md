@@ -72,5 +72,8 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 
 ### 5. Backlog:
 
+### 6. Sprints
+#### Sprint 1
+<img width="901" height="252" alt="image" src="https://github.com/user-attachments/assets/7c198f39-b148-4643-8fb6-dbb6afbe88a3" />
 
 

@@ -1,10 +1,14 @@
-# DOSW_Lab5_JuanE_JuanS_BrayanL
-laboratorio Nro.5
-Owner → Juan Esteban Cruz
+# LABORATORIO : SCRUM, KANBAN Y ESTIMACIÓN
 
-Scrum Master → Juan Sebastian Guayazan Clavijo
+* BRAYAN LOAIZA LEAL → *Desarrollador​*
+* JUAN ESTEBAN CRUZ RICO → *Owner*​
+* JUAN SEBASTIÁN GUAYAZÁN CLAVIJO → *Scrum Master*
 
-desarrollador → Brayan Loaiza Leal
+Desarrollo y Operaciones Software (ISIS DOSW-301)     
+Decanatura Ingeniería de Sistemas     
+Ingeniería de Sistemas    
+Escuela Colombiana de Ingeniería Julio Garavito     
+2026-1   
 
 a. ¿Cuál fue la mayor dificultad a la hora de estimar?
 - la mayor difuicultad pue ponernos de acuerdo en el numero puntos de historia de usuario.

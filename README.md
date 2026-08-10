@@ -1,4 +1,4 @@
-# LABORATORIO : SCRUM, KANBAN Y ESTIMACIÓN
+# Laboratorio: Scrum, Kanban y Estimación
 
 * BRAYAN LOAIZA LEAL → *Desarrollador​*
 * JUAN ESTEBAN CRUZ RICO → *Owner*​
